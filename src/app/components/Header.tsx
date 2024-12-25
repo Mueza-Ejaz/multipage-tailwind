@@ -55,7 +55,7 @@ const Header = () => {
 
 <li className="py-5 border-b-[1px]"><Link href="/jobs" className="block w-full h-full">Jobs</Link></li>
 
-<li className="py-5 border-b-[1px]"><Link href="https://result-giaic.vercel.app/" className="block w-full h-full">Result</Link></li>
+<li className="py-5 border-b-[1px]"><Link href="./" className="block w-full h-full">Result</Link></li>
 
 <li className="py-5 border-b-[1px]"><Link href="https://www.governorsindh.com/tracks/wmd/4" className="block w-full h-full">Courses</Link></li>
 

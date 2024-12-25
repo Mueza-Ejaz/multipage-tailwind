@@ -6,7 +6,7 @@ export default function ConstructionPage() {
           Page Under Construction 🚧
         </h1>
         <p className="text-lg text-gray-600 mb-6">
-          This page is currently being built by Muhammad Shahroz. Please check back soon!
+        Oops! Mueza Ejaz is busy adding the final touches. Check back later!.
         </p>
         <p className="text-sm text-gray-500">Thank you for your patience!</p>
       </div>

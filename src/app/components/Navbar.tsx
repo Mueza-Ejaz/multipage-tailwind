@@ -9,7 +9,7 @@ const Navbar = () => {
         <li><Link href="/">Home</Link></li>
             <li><Link href="/apply">Apply</Link></li>
             <li><Link href="/jobs">Jobs</Link></li>
-            <li><Link href="https://result-giaic.vercel.app/">Result</Link></li>
+            <li><Link href="./">Result</Link></li>
             <li><Link href="/courses">Courses<IoIosArrowDown   className='inline ml-4 text-xl'/></Link></li>
         </ul>
     </nav>
